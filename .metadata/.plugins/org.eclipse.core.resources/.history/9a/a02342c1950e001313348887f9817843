@@ -1,0 +1,10 @@
+'''
+Created on Aug 26, 2013
+
+@author: hsartoris
+'''
+print 'What do you want me to say?'
+
+user_string = raw_input()
+
+print user_string

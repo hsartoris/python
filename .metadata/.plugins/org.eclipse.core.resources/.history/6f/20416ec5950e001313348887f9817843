@@ -1,0 +1,12 @@
+'''
+Created on Aug 26, 2013
+
+@author: hsartoris
+'''
+
+while (true):
+    print "I'll repeat after you, unless you say stop"
+    user_string = raw_input()
+    if (user_string == 'stop' || user_string == 'Stop'):
+        break
+    print user_string
