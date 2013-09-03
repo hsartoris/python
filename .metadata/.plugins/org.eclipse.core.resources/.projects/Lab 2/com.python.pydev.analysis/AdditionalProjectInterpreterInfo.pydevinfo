@@ -1,0 +1,37 @@
+-- VERSION_3
+-- START DISKCACHE
+/Users/hsartoris/Documents/Programming/python/.metadata/.plugins/org.eclipse.core.resources/.projects/Lab 2/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+lab2_area|0|/Users/hsartoris/Documents/Programming/python/Lab 2/lab2_area.py
+lab2_area_syntacticfix|0|/Users/hsartoris/Documents/Programming/python/Lab 2/lab2_area_syntacticfix.py
+Checkpoint2|0|/Users/hsartoris/Documents/Programming/python/Lab 2/Checkpoint2.py
+lab2_area_semanticfix|0|/Users/hsartoris/Documents/Programming/python/Lab 2/lab2_area_semanticfix.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+3=lab2_area
+2=lab2_area_syntacticfix
+4=Checkpoint2
+1=lab2_area_semanticfix
+-- END DICTIONARY
+-- START TREE 1
+15
+ann|0|
+are|3|area!11@area!19@area!27@
+bal|0|
+com|0|
+dep|0|
+ear|6|earthDist!35@earthSeconds!35@earthMinutes!35@earthDiam!35@earthTime!35@earthVolume!35@
+fac|9|face1!11@face1!27@face1!19@face3!19@face2!11@face2!27@face3!11@face3!27@face2!19@
+hei|3|height!27@height!11@height!19@
+ini|0|
+int|0|
+jup|6|jupiterSeconds!35@jupiterDiam!35@jupiterMinutes!35@jupiterTime!35@jupiterVolume!35@jupiterDist!35@
+len|3|leng!19@leng!11@leng!27@
+rat|2|ratioDist!35@ratioVolume!35@
+spe|1|speedOfLight!35@
+wid|3|width!11@width!19@width!27@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

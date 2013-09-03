@@ -1,11 +1,7 @@
-INSTUPtest
-/Users/hsartoris/Documents/Programming/python/Python 2.7 test/test.py
-INFOS:&&2|1|2|0&&2|3|2|0&&2|4|2|0&&2|5|2|0&&2|6|2|0&&2|7|2|0&&2|8|2|0
-test_numpy=7
-test_simplejson=5
-test_elementtree=6
-test=2
-test_sphinx=4
-test_PIL=3
-test_nose=1
-test_flickr=8
+INSTUPHello
+/Users/hsartoris/Documents/Programming/python/Python 2.7 test/Hello.py
+INFOS:&&3|1|2|0&&3|3|2|0&&3|4|2|0
+user_string=1
+volume=4
+pi=3
+Hello=2

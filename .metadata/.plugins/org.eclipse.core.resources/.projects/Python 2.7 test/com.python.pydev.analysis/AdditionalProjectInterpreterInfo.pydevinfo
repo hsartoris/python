@@ -8,18 +8,20 @@ Hello|0|/Users/hsartoris/Documents/Programming/python/Python 2.7 test/Hello.py
 -- END DISKCACHE
 -- START DICTIONARY
 3
-2=test
+3=test
 1=three_double
-3=Hello
+2=Hello
 -- END DICTIONARY
 -- START TREE 1
-7
+9
 fin|1|find_two_double!10@
 mar|1|mario!11@
+pi|1|pi!19@
 ret|1|return_code!11@
-tes|7|test_PIL!18@test_simplejson!18@test_numpy!18@test_sphinx!18@test_nose!18@test_flickr!18@test_elementtree!18@
+tes|7|test_PIL!26@test_simplejson!26@test_numpy!26@test_sphinx!26@test_nose!26@test_flickr!26@test_elementtree!26@
 two|1|two_double!10@
-use|1|user_string!27@
+use|1|user_string!19@
+vol|1|volume!19@
 wor|2|words_url!11@words_file!11@
 -- END TREE
 -- START TREE 2

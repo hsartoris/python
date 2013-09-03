@@ -1,0 +1,22 @@
+'''
+Created on Sep 2, 2013
+
+@author: hsartoris
+'''
+
+import math
+
+jupiterDist = 483,632,000.0
+earthDist = 92,957,100.0
+jupiterDiam = 88,846.0
+earthDiam = 7,926.0
+speedOfLight = 186000
+
+ratioDist = jupiterDist / earthDist
+
+print "Ratio:" + ratioDist
+
+jupiterVolume = (4.0/3) * math.pi * ((jupiterDiam/2) ^ 3)
+earthVolume = (4.0/3) * math.pi * ((earthDiam/2) ^ 3)
+
+ratioVolume = jupiterVolume/earthVolume
