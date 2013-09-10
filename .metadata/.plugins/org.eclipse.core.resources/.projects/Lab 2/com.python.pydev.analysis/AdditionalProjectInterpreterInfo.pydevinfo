@@ -6,31 +6,31 @@ lab2_area|0|/Users/hsartoris/Documents/Programming/python/Lab 2/lab2_area.py
 lab2_area_syntacticfix|0|/Users/hsartoris/Documents/Programming/python/Lab 2/lab2_area_syntacticfix.py
 Checkpoint2|0|/Users/hsartoris/Documents/Programming/python/Lab 2/Checkpoint2.py
 lab2_area_semanticfix|0|/Users/hsartoris/Documents/Programming/python/Lab 2/lab2_area_semanticfix.py
+Checkpoint3|0|/Users/hsartoris/Documents/Programming/python/Lab 2/Checkpoint3.py
 -- END DISKCACHE
 -- START DICTIONARY
-4
-3=lab2_area
-2=lab2_area_syntacticfix
-4=Checkpoint2
-1=lab2_area_semanticfix
+5
+4=lab2_area
+3=lab2_area_syntacticfix
+5=Checkpoint2
+2=lab2_area_semanticfix
+1=Checkpoint3
 -- END DICTIONARY
 -- START TREE 1
-15
-ann|0|
-are|3|area!11@area!19@area!27@
-bal|0|
-com|0|
-dep|0|
-ear|6|earthDist!35@earthSeconds!35@earthMinutes!35@earthDiam!35@earthTime!35@earthVolume!35@
-fac|9|face1!11@face1!27@face1!19@face3!19@face2!11@face2!27@face3!11@face3!27@face2!19@
-hei|3|height!27@height!11@height!19@
-ini|0|
-int|0|
-jup|6|jupiterSeconds!35@jupiterDiam!35@jupiterMinutes!35@jupiterTime!35@jupiterVolume!35@jupiterDist!35@
-len|3|leng!19@leng!11@leng!27@
-rat|2|ratioDist!35@ratioVolume!35@
-spe|1|speedOfLight!35@
-wid|3|width!11@width!19@width!27@
+13
+ann|1|annualInterestRate!11@
+are|3|area!19@area!27@area!35@
+bal|1|balance!11@
+com|1|compoundedEvery!11@
+dep|1|depositPerMonth!11@
+ear|6|earthDist!43@earthSeconds!43@earthMinutes!43@earthDiam!43@earthTime!43@earthVolume!43@
+fac|9|face1!19@face1!35@face1!27@face3!27@face2!19@face2!35@face3!19@face3!35@face2!27@
+hei|3|height!35@height!19@height!27@
+jup|6|jupiterSeconds!43@jupiterDiam!43@jupiterMinutes!43@jupiterTime!43@jupiterVolume!43@jupiterDist!43@
+len|3|leng!27@leng!19@leng!35@
+rat|2|ratioDist!43@ratioVolume!43@
+spe|1|speedOfLight!43@
+wid|3|width!19@width!27@width!35@
 -- END TREE
 -- START TREE 2
 0

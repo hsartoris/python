@@ -1,0 +1,20 @@
+'''
+Created on Sep 10, 2013
+
+@author: hsartoris
+'''
+def framed(firstName, lastName):
+    hello = "Hello,"
+    maxLength = len(hello)
+    if len(firstName) > maxLength:
+        maxLength = len(firstName)
+    if len(lastName) > maxLength:
+        maxLength = len(lastName))
+    
+    s_len = len(s)
+    print "*"*(6 + s_len)
+    print "** " + s + " **"
+    print "*"*(6 + s_len)
+    
+firstName = raw_input("Enter your first name. \n")
+lastName = raw_input("Enter your last name. \n")

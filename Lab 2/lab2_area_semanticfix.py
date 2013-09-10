@@ -9,4 +9,4 @@ print "Area of the rectangular solid with"
 print "length", leng
 print "width ", width
 print "height", height
-print "is", area, "cubic units"
+print "is", area, "square units"

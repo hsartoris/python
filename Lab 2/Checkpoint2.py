@@ -14,7 +14,7 @@ speedOfLight = 186000
 
 ratioDist = jupiterDist / earthDist
 
-print "Ratio of Distance: " + repr(ratioDist) + " Jupiter/Earth"
+print "Ratio of Distance: " + str(ratioDist) + " Jupiter/Earth"
 
 jupiterVolume = (4.0/3) * math.pi * (int(jupiterDiam/2) ^ 3)
 earthVolume = (4.0/3) * math.pi * (int(earthDiam/2) ^ 3)
