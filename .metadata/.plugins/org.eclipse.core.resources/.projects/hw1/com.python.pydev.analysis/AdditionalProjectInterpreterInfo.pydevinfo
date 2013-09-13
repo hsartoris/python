@@ -1,0 +1,33 @@
+-- VERSION_3
+-- START DISKCACHE
+/Users/hsartoris/Documents/Programming/python/.metadata/.plugins/org.eclipse.core.resources/.projects/hw1/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+hw1_part2|0|/Users/hsartoris/Documents/Programming/python/hw1/hw1_part2.py
+hw1_part1|0|/Users/hsartoris/Documents/Programming/python/hw1/hw1_part1.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=hw1_part2
+2=hw1_part1
+-- END DICTIONARY
+-- START TREE 1
+15
+bab|0|
+est|0|
+max|1|maximum!11@
+min|1|minimum!11@
+mon|7|mondayAverageSeconds!19@mondaySeconds!19@mondayMinutes!19@mondayMiles!19@mondayTime!19@mondayAverageMinutes!19@mondayAverageSpeed!19@
+ns2|4|ns2010!11@ns2006!11@ns2012!11@ns2008!11@
+per|1|percentInc!10@
+pns|3|pns2012!11@pns2010!11@pns2008!11@
+prs|3|prs2012!11@prs2010!11@prs2008!11@
+r20|4|r2006!11@r2010!11@r2012!11@r2008!11@
+rs2|4|rs2010!11@rs2008!11@rs2006!11@rs2012!11@
+thu|7|thursdayMinutes!19@thursdayAverageSeconds!19@thursdayMiles!19@thursdayAverageMinutes!19@thursdayTime!19@thursdayAverageSpeed!19@thursdaySeconds!19@
+tot|7|totalSeconds!19@totalMinutes!19@totalAverageSeconds!19@totalAverageSpeed!19@totalMiles!19@totalTime!19@totalAverageMinutes!19@
+tue|7|tuesdayTime!19@tuesdayAverageSeconds!19@tuesdayAverageMinutes!19@tuesdayAverageSpeed!19@tuesdayMiles!19@tuesdaySeconds!19@tuesdayMinutes!19@
+tur|0|
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

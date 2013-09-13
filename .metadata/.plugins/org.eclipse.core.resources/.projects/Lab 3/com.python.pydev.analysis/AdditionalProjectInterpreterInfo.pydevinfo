@@ -5,20 +5,21 @@
 Check1|0|/Users/hsartoris/Documents/Programming/python/Lab 3/Check1.py
 Check2|0|/Users/hsartoris/Documents/Programming/python/Lab 3/Check2.py
 Check3|0|/Users/hsartoris/Documents/Programming/python/Lab 3/Check3.py
+Check4|0|/Users/hsartoris/Documents/Programming/python/Lab 3/Check4.py
 -- END DISKCACHE
 -- START DICTIONARY
-2
-1=Check2
-2=Check3
+3
+2=Check2
+3=Check3
+1=Check4
 -- END DICTIONARY
 -- START TREE 1
-6
-!<m|0|
-fir|0|
-fra|2|framed!10@framed!18@
-las|0|
-pri|0|
-s|2|s!19@s!11@
+5
+fir|1|firstName!11@
+fra|3|framed!18@framed!26@framed!10@
+las|1|lastName!11@
+pri|1|printLine!10@
+s|2|s!27@s!19@
 -- END TREE
 -- START TREE 2
 0

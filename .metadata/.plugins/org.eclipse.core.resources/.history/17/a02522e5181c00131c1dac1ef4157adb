@@ -1,0 +1,11 @@
+'''
+Created on Sep 12, 2013
+
+@author: hsartoris
+'''
+
+def babylonian(x, y):
+    return (y + (x/y)) / 2
+
+print "Computing the sqrt of 2.0"
+estimate = babylonian(2.0, 1.0)

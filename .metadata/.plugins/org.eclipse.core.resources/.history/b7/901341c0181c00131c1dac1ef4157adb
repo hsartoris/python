@@ -1,0 +1,8 @@
+'''
+Created on Sep 12, 2013
+
+@author: hsartoris
+'''
+
+def babylonian(x, y):
+    return (y + (x/y)) / 2
