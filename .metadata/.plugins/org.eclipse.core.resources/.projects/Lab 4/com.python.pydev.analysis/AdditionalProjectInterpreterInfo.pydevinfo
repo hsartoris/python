@@ -1,0 +1,43 @@
+-- VERSION_3
+-- START DISKCACHE
+/Users/hsartoris/Documents/Programming/python/.metadata/.plugins/org.eclipse.core.resources/.projects/Lab 4/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+blend|0|/Users/hsartoris/Documents/Programming/python/Lab 4/blend.py
+draw_circle|0|/Users/hsartoris/Documents/Programming/python/Lab 4/draw_circle.py
+image_ex1|0|/Users/hsartoris/Documents/Programming/python/Lab 4/image_ex1.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+2=blend
+1=draw_circle
+3=image_ex1
+-- END DICTIONARY
+-- START TREE 1
+23
+b|1|b!11@
+cen|1|center_distance!10@
+cro|1|cropped!19@
+cuo|1|cuoco!19@
+dra|1|draw!11@
+fil|1|filename!27@
+g|1|g!11@
+gra|1|gray_im!27@
+im|2|im!11@im!27@
+int|1|intersectCount!11@
+par|1|parsons!19@
+pig|3|pigY!11@pigRadius!11@pigX!11@
+r|1|r!11@
+rad|1|radius!11@
+sca|1|scaled!27@
+x|1|x!11@
+x0|1|x0!11@
+x1|1|x1!11@
+xc|1|xc!11@
+y|1|y!11@
+y0|1|y0!11@
+y1|1|y1!11@
+yc|1|yc!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

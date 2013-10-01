@@ -1,0 +1,30 @@
+-- VERSION_3
+-- START DISKCACHE
+/Users/hsartoris/Documents/Programming/python/.metadata/.plugins/org.eclipse.core.resources/.projects/hw2/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+hw2_part2|0|/Users/hsartoris/Documents/Programming/python/hw2/hw2_part2.py
+hw2_part1|0|/Users/hsartoris/Documents/Programming/python/hw2/hw2_part1.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=hw2_part2
+1=hw2_part1
+-- END DICTIONARY
+-- START TREE 1
+12
+act|2|actorX!11@actorY!11@
+con|2|consonantCount!19@consonants!19@
+cou|1|countLetter!18@
+ext|1|extraneousSpaces!19@
+inp|1|inputString!19@
+max|2|maxY!11@maxX!11@
+min|2|minX!11@minY!11@
+off|1|offset!11@
+rad|1|radius!11@
+rem|1|removeLetter!18@
+spa|1|spaceCount!19@
+vow|2|vowels!19@vowelCount!19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

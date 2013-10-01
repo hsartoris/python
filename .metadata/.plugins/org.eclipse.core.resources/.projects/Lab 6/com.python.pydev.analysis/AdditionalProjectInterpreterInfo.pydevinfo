@@ -1,0 +1,32 @@
+-- VERSION_3
+-- START DISKCACHE
+/Users/hsartoris/Documents/Programming/python/.metadata/.plugins/org.eclipse.core.resources/.projects/Lab 6/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+flickr|0|/Users/hsartoris/Documents/Programming/python/Lab 6/flickr.py
+check1|0|/Users/hsartoris/Documents/Programming/python/Lab 6/check1.py
+check2|0|/Users/hsartoris/Documents/Programming/python/Lab 6/check2.py
+check3|0|/Users/hsartoris/Documents/Programming/python/Lab 6/check3.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+1=flickr
+2=check1
+4=check2
+3=check3
+-- END DICTIONARY
+-- START TREE 1
+10
+!<m|0|
+api|2|apicode!11@apicode!19@
+bac|1|background!19@
+get|4|getphotos!10@getPhotos!18@getPhotos!26@getPhotos!34@
+im|1|im!11@
+mak|4|make_2x2!34@make_2x2!26@makeWallpaper!26@make_2x2!18@
+n|2|n!19@n!11@
+ope|4|openPhoto!18@openPhoto!26@openPhoto!34@openphoto!10@
+pho|2|photo_list!19@photo_list!11@
+res|2|resizeAndCrop!34@resizeAndCrop!26@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
