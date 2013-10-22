@@ -1,0 +1,27 @@
+-- VERSION_3
+-- START DISKCACHE
+/Users/hsartoris/Documents/Programming/python/.metadata/.plugins/org.eclipse.core.resources/.projects/Lab 7/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+check1a|0|/Users/hsartoris/Documents/Programming/python/Lab 7/check1a.py
+sudoku_start|0|/Users/hsartoris/Documents/Programming/python/Lab 7/sudoku_start.py
+check2|0|/Users/hsartoris/Documents/Programming/python/Lab 7/check2.py
+check3|0|/Users/hsartoris/Documents/Programming/python/Lab 7/check3.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+1=check1a
+3=sudoku_start
+2=check2
+4=check3
+-- END DICTIONARY
+-- START TREE 1
+5
+bd|1|bd!11@
+ok_|3|ok_to_add!18@ok_to_add!26@ok_to_add!34@
+pri|3|print_board!18@print_board!34@print_board!26@
+rea|3|read_board!34@read_board!26@read_board!18@
+ver|3|verify_board_is_complete!18@verify_board_is_complete!34@verify_board_is_complete!26@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

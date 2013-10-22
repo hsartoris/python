@@ -13,10 +13,10 @@ import urllib
 import flickrapi
 
 def resizeAndCrop(image):
-    if image.size[0] < image.size[1]:
-        image.resize((256, image.size[1] * 256 / image.size[0]))
+    if image.size[0] <= image.size[1]:
+        image = image.resize((256, image.size[1] * 256 / image.size[0]))
     else:
-        image.resize((image.size[0] * 256 / image.size[1], 256))
+        image = image.resize((image.size[0] * 256 / image.size[1], 256))
     
     image.crop((0,0,256,256))
     return image
@@ -26,8 +26,7 @@ def make_2x2(photos):
     
     images = []
     for i in range(0,4):
-        images.append(openPhoto(photos[i]))
-        images[i] = resizeAndCrop(images[i])
+        images.append(resizeAndCrop(openPhoto(photos[i])))
         
     output.paste(images[0], (0,0))
     output.paste(images[1], (0,256))

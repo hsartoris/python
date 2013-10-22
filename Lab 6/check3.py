@@ -12,21 +12,21 @@ import cStringIO
 import urllib
 import flickrapi
 
-def resizeAndCrop(image):
+def resizeAndCrop(image, sideLength):
     if image.size[0] < image.size[1]:
-        image.resize((256, image.size[1] * 256 / image.size[0]))
+        image = image.resize((sideLength, image.size[1] * sideLength / image.size[0]))
     else:
-        image.resize((image.size[0] * 256 / image.size[1], 256))
+        image = image.resize((image.size[0] * sideLength / image.size[1], sideLength))
     
-    image.crop((0,0,256,256))
+    image.crop((0,0,sideLength,sideLength))
     return image
 
-def makeWallpaper(across, down, apicode):
+def makeWallpaper(across, down, apicode, sideLength):
     photos = getPhotos(apicode, 'geometric', across * down)
     
-    output = Image.new("RGB", (across * 256, down * 256), 255)
+    output = Image.new("RGB", (across * sideLength, down * sideLength), 'white')
     for i in range(0, across * down):
-        output.paste(resizeAndCrop(openPhoto(photos[i])), ((i % across) * 256, (i / across) * 256))
+        output.paste(resizeAndCrop(openPhoto(photos[i]), sideLength), ((i % across) * sideLength, (i / across) * sideLength))
     
     output.save('output.jpg')
     return output
@@ -49,7 +49,7 @@ def getPhotos(apicode, query, num_images):
     photos = []
     for photo in flickr.walk(tags = query, \
                                  tag_mode = 'all',\
-                                 safe_search = '0',\
+                                 #safe_search = '1',\
                                  sort = 'interestingness-desc'):
         url = "http://farm" + photo.get('farm') + ".staticflickr.com/" + \
             photo.get('server') + "/" + photo.get('id') + "_" + \
@@ -68,5 +68,5 @@ def getPhotos(apicode, query, num_images):
 if __name__ == "__main__":
     apicode = '9ed8f638602443020d13fd0d68495f53'
     
-    background = makeWallpaper(int(raw_input("Enter the number of photos across: ")), int(raw_input("Enter the number of photos down: ")), apicode)
+    background = makeWallpaper(int(raw_input("Enter the number of photos across: ")), int(raw_input("Enter the number of photos down: ")), apicode, 512)
     background.show()

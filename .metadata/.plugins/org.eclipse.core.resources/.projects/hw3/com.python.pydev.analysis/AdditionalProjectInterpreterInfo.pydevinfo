@@ -1,0 +1,29 @@
+-- VERSION_3
+-- START DISKCACHE
+/Users/hsartoris/Documents/Programming/python/.metadata/.plugins/org.eclipse.core.resources/.projects/hw3/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+three_double|0|/Users/hsartoris/Documents/Programming/python/hw3/three_double.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=three_double
+-- END DICTIONARY
+-- START TREE 1
+13
+fin|1|find_three_double!10@
+fra|1|fractionStartEnd!10@
+let|1|letterPercentages!10@
+mos|1|mostCommonLength!10@
+nov|1|noVowels!10@
+num|2|numWordsWithNoVowels!10@numConsecutiveDoubles!10@
+per|1|percentContains!10@
+qua|1|quarterOccurrences!10@
+sta|2|statistics!10@startIsEnd!10@
+ten|1|tenthOccurrences!10@
+thr|1|three_double!10@
+two|1|two_double!10@
+wor|1|wordWith3Ys!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

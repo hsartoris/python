@@ -1,0 +1,78 @@
+def read_board(board_filename):
+	bd = []
+	for line in open(board_filename):
+		bd.append(line.strip())
+	return bd
+
+def print_board(board):
+	# This function should take in a list of strings and print the board
+	for line in board:
+		t = ""
+		for c in line:
+			t += c
+			t += " "
+		print t
+
+def find_word_in_puzzle(board, word):
+	# This function shoud call eight functions (one for each direction)
+	# An example call:  is_word_going_right(board, word, row, col)
+	# See the HW 5 pdf.
+	print ""
+
+def right(board, word, row, col, wordIndex):
+	if (row < len(board)) and (col + 1 < len(board[row])) and row > 0 and col > 0:
+		if board[row][col + 1] == word[wordIndex]:
+			return right(board, word, row, col + 1, wordIndex + 1)
+	return [False, 0, 0]
+
+def left(board, word, row, col, wordIndex):
+	if (row < len(board)) and (col - 1 > 0) and row > 0 and col < len(board[row]):
+		if board[row][col - 1] == word[wordIndex]:
+			return left(board, word, row, col - 1, wordIndex + 1)
+	return [False, 0, 0]
+
+def down(board, word, row, col, wordIndex):
+	
+	return [False, 0, 0]
+
+def up(board, word, row, col, wordIndex):
+	
+	return [False, 0, 0]
+
+def downRight(board, word, row, col, wordIndex):
+	
+	return [False, 0, 0]
+
+def downLeft(board, word, row, col, wordIndex):
+	
+	return [False, 0, 0]
+
+def upRight(board, word, row, col, wordIndex):
+	
+	return [False, 0, 0]
+
+def upLeft(board, word, row, col, wordIndex):
+	
+	return [False, 0, 0]
+
+
+
+if __name__ == '__main__':
+	board_filename = raw_input("Enter the file containing the board ==> ")
+	print board_filename
+	print # print an empty line
+
+	# board is a list of strings (a bit simpler than the Sudoku structure)
+	board = read_board(board_filename)
+
+	# print the board, you must write this function
+	print_board(board)
+
+	print # print an empty line
+	words_filename = raw_input("Enter the file containing the words ==> ")
+	print words_filename
+
+	print # print an empty line
+	for line in open(words_filename):
+		word = line.strip()
+		find_word_in_puzzle(board, word)

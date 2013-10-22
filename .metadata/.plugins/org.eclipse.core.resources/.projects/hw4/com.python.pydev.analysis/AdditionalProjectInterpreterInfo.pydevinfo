@@ -1,0 +1,28 @@
+-- VERSION_3
+-- START DISKCACHE
+/Users/hsartoris/Documents/Programming/python/.metadata/.plugins/org.eclipse.core.resources/.projects/hw4/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+hw4|0|/Users/hsartoris/Documents/Programming/python/hw4/hw4.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=hw4
+-- END DICTIONARY
+-- START TREE 1
+12
+ave|1|averagePop!11@
+cen|1|census!11@
+cou|5|countyPopulations!11@countyStuff!11@counties!11@countiesWithEverything!11@county!11@
+dat|1|data!11@
+lar|4|largestTown2010!11@largestCity2010!11@largestChangeCounty!11@largestCounty2010!11@
+med|3|medianLowCounty!11@medians!11@median!11@
+num|1|numCounties!11@
+siz|1|sizes!11@
+sma|4|smallestChangeCounty!11@smallestCity2010!11@smallestCounty2010!11@smallestTown2010!11@
+sub|1|subdivide!11@
+tem|1|temp!11@
+tot|1|totalPop!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

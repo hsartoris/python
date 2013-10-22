@@ -1,0 +1,31 @@
+-- VERSION_3
+-- START DISKCACHE
+/Users/hsartoris/Documents/Programming/python/.metadata/.plugins/org.eclipse.core.resources/.projects/Lab 8/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+parse_url|0|/Users/hsartoris/Documents/Programming/python/Lab 8/parse_url.py
+check1|0|/Users/hsartoris/Documents/Programming/python/Lab 8/check1.py
+check2|0|/Users/hsartoris/Documents/Programming/python/Lab 8/check2.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+1=parse_url
+3=check1
+2=check2
+-- END DICTIONARY
+-- START TREE 1
+11
+add|1|add_links!10@
+all|1|all_links!19@
+get|1|get_links!10@
+l|0|
+lin|2|links!27@links!19@
+max|1|max_links!19@
+new|0|
+out|0|
+str|0|
+unv|0|
+url|2|url!27@url!19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

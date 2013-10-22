@@ -1,0 +1,1064 @@
+Albany|county|294,571|304,204
+Albany|city|94,444|97,856
+Berne|town|2,853|2,794
+Bethlehem|town|31,338|33,656
+Coeymans|town|8,161|7,418
+Cohoes|city|15,607|16,168
+Colonie|town|79,327|81,591
+Green Island|town|2,283|2,620
+Guilderland|town|34,045|35,303
+Knox|town|2,647|2,692
+New Scotland|town|8,588|8,648
+Rensselaerville|town|1,915|1,843
+Watervliet|city|9,904|10,254
+Westerlo|town|3,459|3,361
+Allegany|county|49,927|48,946
+Alfred|town|5,140|5,237
+Allen|town|462|448
+Alma|town|847|842
+Almond|town|1,604|1,633
+Amity|town|2,245|2,308
+Andover|town|1,945|1,830
+Angelica|town|1,411|1,403
+Belfast|town|1,714|1,663
+Birdsall|town|268|221
+Bolivar|town|2,223|2,189
+Burns|town|1,248|1,180
+Caneadea|town|2,694|2,542
+Centerville|town|762|822
+Clarksville|town|1,146|1,161
+Cuba|town|3,392|3,243
+Friendship|town|1,927|2,004
+Genesee|town|1,803|1,693
+Granger|town|577|538
+Grove|town|533|548
+Hume|town|1,987|2,071
+Independence|town|1,074|1,167
+New Hudson|town|736|781
+Oil Springs|reservation|0|1
+Rushford|town|1,259|1,150
+Scio|town|1,914|1,833
+Ward|town|390|368
+Wellsville|town|7,678|7,397
+West Almond|town|353|334
+Willing|town|1,371|1,228
+Wirt|town|1,215|1,111
+Broome|county|200,536|200,600
+Barker|town|2,738|2,732
+Binghamton|city|47,380|47,376
+Binghamton|town|4,969|4,942
+Chenango|town|11,454|11,252
+Colesville|town|5,441|5,232
+Conklin|town|5,940|5,441
+Dickinson|town|5,335|5,278
+Fenton|town|6,909|6,674
+Kirkwood|town|5,651|5,857
+Lisle|town|2,707|2,751
+Maine|town|5,459|5,377
+Nanticoke|town|1,790|1,672
+Sanford|town|2,477|2,407
+Triangle|town|3,032|2,946
+Union|town|56,266|56,346
+Vestal|town|26,567|28,043
+Windsor|town|6,421|6,274
+Cattaraugus|county|83,955|80,317
+Allegany|town|8,230|8,004
+Allegany|reservation|1,099|1,020
+Ashford|town|2,223|2,132
+Carrollton|town|1,410|1,297
+Cattaraugus|reservation|0|314
+Coldspring|town|751|663
+Conewango|town|1,732|1,857
+Dayton|town|1,945|1,886
+East Otto|town|1,105|1,062
+Ellicottville|town|1,738|1,598
+Farmersville|town|1,028|1,090
+Franklinville|town|3,128|2,990
+Freedom|town|2,493|2,405
+Great Valley|town|2,145|1,974
+Hinsdale|town|2,270|2,168
+Humphrey|town|721|687
+Ischua|town|895|859
+Leon|town|1,380|1,365
+Little Valley|town|1,788|1,740
+Lyndon|town|661|707
+Machias|town|2,482|2,375
+Mansfield|town|800|808
+Napoli|town|1,159|1,248
+New Albion|town|2,068|1,972
+Oil Springs|reservation|0|0
+Olean|city|15,347|14,452
+Olean|town|2,029|1,963
+Otto|town|831|808
+Perrysburg|town|1,771|1,626
+Persia|town|2,512|2,404
+Portville|town|3,952|3,730
+Randolph|town|2,681|2,602
+Red House|town|38|38
+Salamanca|city|6,097|5,815
+Salamanca|town|544|481
+South Valley|town|302|264
+Yorkshire|town|4,210|3,913
+Cayuga|county|81,961|80,026
+Auburn|city|28,574|27,687
+Aurelius|town|2,936|2,792
+Brutus|town|4,777|4,464
+Cato|town|2,744|2,537
+Conquest|town|1,925|1,819
+Fleming|town|2,647|2,636
+Genoa|town|1,914|1,935
+Ira|town|2,426|2,206
+Ledyard|town|1,832|1,886
+Locke|town|1,900|1,951
+Mentz|town|2,446|2,378
+Montezuma|town|1,431|1,277
+Moravia|town|4,040|3,626
+Niles|town|1,208|1,194
+Owasco|town|3,755|3,793
+Scipio|town|1,537|1,713
+Sempronius|town|893|895
+Sennett|town|3,244|3,595
+Springport|town|2,256|2,367
+Sterling|town|3,432|3,040
+Summerhill|town|1,098|1,217
+Throop|town|1,824|1,990
+Venice|town|1,286|1,368
+Victory|town|1,836|1,660
+Chautauqua|county|139,747|134,905
+Arkwright|town|1,126|1,061
+Busti|town|7,757|7,351
+Carroll|town|3,635|3,524
+Cattaraugus|reservation|0|38
+Charlotte|town|1,713|1,729
+Chautauqua|town|4,666|4,464
+Cherry Creek|town|1,152|1,118
+Clymer|town|1,501|1,698
+Dunkirk|city|13,131|12,563
+Dunkirk|town|1,387|1,318
+Ellery|town|4,576|4,528
+Ellicott|town|9,280|8,714
+Ellington|town|1,639|1,643
+French Creek|town|935|906
+Gerry|town|2,054|1,905
+Hanover|town|7,638|7,127
+Harmony|town|2,339|2,206
+Jamestown|city|31,984|31,146
+Kiantone|town|1,385|1,350
+Mina|town|1,176|1,106
+North Harmony|town|2,521|2,267
+Poland|town|2,467|2,356
+Pomfret|town|14,703|14,965
+Portland|town|5,502|4,827
+Ripley|town|2,636|2,415
+Sheridan|town|2,584|2,673
+Sherman|town|1,553|1,653
+Stockton|town|2,331|2,248
+Villenova|town|1,121|1,110
+Westfield|town|5,232|4,896
+Chemung|county|91,072|88,830
+Ashland|town|1,951|1,695
+Baldwin|town|853|832
+Big Flats|town|7,224|7,731
+Catlin|town|2,654|2,618
+Chemung|town|2,665|2,563
+Elmira|city|30,942|29,200
+Elmira|town|7,199|6,934
+Erin|town|2,058|1,962
+Horseheads|town|19,557|19,485
+Southport|town|11,185|10,940
+Van Etten|town|1,518|1,557
+Veteran|town|3,266|3,313
+Chenango|county|51,398|50,477
+Afton|town|2,977|2,851
+Bainbridge|town|3,401|3,308
+Columbus|town|931|975
+Coventry|town|1,589|1,655
+German|town|378|370
+Greene|town|5,729|5,604
+Guilford|town|3,046|2,922
+Lincklaen|town|416|396
+McDonough|town|870|886
+New Berlin|town|2,803|2,682
+North Norwich|town|1,966|1,783
+Norwich|city|7,355|7,190
+Norwich|town|3,836|3,998
+Otselic|town|1,001|1,054
+Oxford|town|3,992|3,901
+Pharsalia|town|542|593
+Pitcher|town|848|803
+Plymouth|town|2,049|1,804
+Preston|town|928|1,044
+Sherburne|town|3,976|4,048
+Smithville|town|1,347|1,330
+Smyrna|town|1,418|1,280
+Clinton|county|79,894|82,128
+Altona|town|3,160|2,887
+Au Sable|town|3,011|3,146
+Beekmantown|town|5,321|5,545
+Black Brook|town|1,660|1,497
+Champlain|town|5,791|5,754
+Chazy|town|4,186|4,284
+Clinton|town|731|737
+Dannemora|town|5,150|4,898
+Ellenburg|town|1,812|1,743
+Mooers|town|3,404|3,592
+Peru|town|6,364|6,998
+Plattsburgh|city|18,816|19,989
+Plattsburgh|town|11,283|11,870
+Saranac|town|4,077|4,007
+Schuyler Falls|town|5,128|5,181
+Columbia|county|63,094|63,096
+Ancram|town|1,513|1,573
+Austerlitz|town|1,453|1,654
+Canaan|town|1,820|1,710
+Chatham|town|4,249|4,128
+Claverack|town|6,401|6,021
+Clermont|town|1,726|1,965
+Copake|town|3,278|3,615
+Gallatin|town|1,499|1,668
+Germantown|town|2,018|1,954
+Ghent|town|5,276|5,402
+Greenport|town|4,180|4,165
+Hillsdale|town|1,744|1,927
+Hudson|city|7,524|6,713
+Kinderhook|town|8,296|8,498
+Livingston|town|3,424|3,646
+New Lebanon|town|2,454|2,305
+Stockport|town|2,933|2,815
+Stuyvesant|town|2,188|2,027
+Taghkanic|town|1,118|1,310
+Cortland|county|48,599|49,336
+Cincinnatus|town|1,048|1,056
+Cortland|city|18,740|19,204
+Cortlandville|town|7,919|8,509
+Cuyler|town|1,036|980
+Freetown|town|789|757
+Harford|town|919|943
+Homer|town|6,363|6,405
+Lapeer|town|686|767
+Marathon|town|2,189|1,967
+Preble|town|1,582|1,393
+Scott|town|1,193|1,176
+Solon|town|1,108|1,079
+Taylor|town|500|523
+Truxton|town|1,225|1,133
+Virgil|town|2,288|2,401
+Willet|town|1,014|1,043
+Delaware|county|48,057|47,980
+Andes|town|1,356|1,301
+Bovina|town|664|633
+Colchester|town|2,042|2,077
+Davenport|town|2,774|2,965
+Delhi|town|4,629|5,117
+Deposit|town|1,687|1,712
+Franklin|town|2,621|2,411
+Hamden|town|1,280|1,323
+Hancock|town|3,451|3,224
+Harpersfield|town|1,603|1,577
+Kortright|town|1,633|1,675
+Masonville|town|1,405|1,320
+Meredith|town|1,588|1,529
+Middletown|town|4,051|3,750
+Roxbury|town|2,509|2,502
+Sidney|town|6,109|5,774
+Stamford|town|1,943|2,267
+Tompkins|town|1,105|1,247
+Walton|town|5,607|5,576
+Dutchess|county|280,153|297,488
+Amenia|town|4,062|4,436
+Beacon|city|14,805|15,541
+Beekman|town|13,698|14,621
+Clinton|town|4,011|4,312
+Dover|town|8,562|8,699
+East Fishkill|town|25,588|29,029
+Fishkill|town|19,261|22,107
+Hyde Park|town|20,837|21,571
+La Grange|town|14,926|15,730
+Milan|town|2,359|2,370
+North East|town|3,002|3,031
+Pawling|town|7,521|8,463
+Pine Plains|town|2,559|2,473
+Pleasant Valley|town|9,063|9,672
+Poughkeepsie|city|30,157|32,736
+Poughkeepsie|town|42,492|43,341
+Red Hook|town|10,394|11,319
+Rhinebeck|town|7,774|7,548
+Stanford|town|3,553|3,823
+Union Vale|town|4,521|4,877
+Wappinger|town|26,272|27,048
+Washington|town|4,736|4,741
+Erie|county|950,265|919,040
+Alden|town|10,470|10,865
+Amherst|town|116,510|122,366
+Aurora|town|13,996|13,782
+Boston|town|7,897|8,023
+Brant|town|1,906|2,065
+Buffalo|city|292,648|261,310
+Cattaraugus|reservation|0|1,833
+Cheektowaga|town|94,019|88,226
+Clarence|town|26,123|30,673
+Colden|town|3,323|3,265
+Collins|town|8,307|6,601
+Concord|town|8,526|8,494
+Eden|town|8,076|7,688
+Elma|town|11,304|11,317
+Evans|town|17,594|16,356
+Grand Island|town|18,621|20,374
+Hamburg|town|56,261|56,936
+Holland|town|3,603|3,401
+Lackawanna|city|19,064|18,141
+Lancaster|town|39,019|41,604
+Marilla|town|5,709|5,327
+Newstead|town|8,404|8,594
+North Collins|town|3,376|3,523
+Orchard Park|town|27,635|29,054
+Sardinia|town|2,692|2,775
+Tonawanda|city|16,136|15,130
+Tonawanda|town|78,155|73,567
+Tonawanda|reservation|0|34
+Wales|town|2,960|3,005
+West Seneca|town|45,920|44,711
+Essex|county|38,849|39,370
+Chesterfield|town|2,409|2,445
+Crown Point|town|2,119|2,024
+Elizabethtown|town|1,315|1,163
+Essex|town|713|671
+Jay|town|2,306|2,506
+Keene|town|1,063|1,105
+Lewis|town|1,200|1,382
+Minerva|town|796|809
+Moriah|town|4,879|4,798
+Newcomb|town|481|436
+North Elba|town|8,659|8,957
+North Hudson|town|266|240
+St. Armand|town|1,321|1,548
+Schroon|town|1,759|1,654
+Ticonderoga|town|5,167|5,042
+Westport|town|1,362|1,312
+Willsboro|town|1,903|2,025
+Wilmington|town|1,131|1,253
+Franklin|county|51,134|51,599
+Bangor|town|2,147|2,224
+Bellmont|town|1,423|1,434
+Bombay|town|1,192|1,357
+Brandon|town|542|577
+Brighton|town|1,682|1,435
+Burke|town|1,359|1,465
+Chateaugay|town|2,036|2,155
+Constable|town|1,428|1,566
+Dickinson|town|739|823
+Duane|town|159|174
+Fort Covington|town|1,645|1,676
+Franklin|town|1,197|1,140
+Harrietstown|town|5,575|5,709
+Malone|town|14,981|14,545
+Moira|town|2,857|2,934
+St. Regis Mohawk|reservation|2,699|3,228
+Santa Clara|town|395|345
+Tupper Lake|town|6,137|5,971
+Waverly|town|1,118|1,022
+Westville|town|1,823|1,819
+Fulton|county|55,077|55,531
+Bleecker|town|573|533
+Broadalbin|town|5,070|5,260
+Caroga|town|1,403|1,205
+Ephratah|town|1,693|1,682
+Gloversville|city|15,391|15,665
+Johnstown|city|8,636|8,743
+Johnstown|town|7,067|7,098
+Mayfield|town|6,432|6,495
+Northampton|town|2,760|2,670
+Oppenheim|town|1,774|1,924
+Perth|town|3,638|3,646
+Stratford|town|640|610
+Genesee|county|60,370|60,079
+Alabama|town|1,881|1,869
+Alexander|town|2,451|2,534
+Batavia|city|16,256|15,465
+Batavia|town|5,915|6,809
+Bergen|town|3,182|3,120
+Bethany|town|1,760|1,765
+Byron|town|2,493|2,369
+Darien|town|3,061|3,158
+Elba|town|2,439|2,370
+Le Roy|town|7,790|7,641
+Oakfield|town|3,203|3,250
+Pavilion|town|2,467|2,495
+Pembroke|town|4,530|4,292
+Stafford|town|2,409|2,459
+Tonawanda|reservation|0|483
+Greene|county|48,185|49,221
+Ashland|town|752|784
+Athens|town|3,991|4,089
+Cairo|town|6,317|6,670
+Catskill|town|11,887|11,775
+Coxsackie|town|8,884|8,918
+Durham|town|2,592|2,725
+Greenville|town|3,316|3,739
+Halcott|town|193|258
+Hunter|town|2,717|2,732
+Jewett|town|970|953
+Lexington|town|830|805
+New Baltimore|town|3,411|3,370
+Prattsville|town|665|700
+Windham|town|1,660|1,703
+Hamilton|county|5,377|4,836
+Arietta|town|293|304
+Benson|town|201|192
+Hope|town|392|403
+Indian Lake|town|1,471|1,352
+Inlet|town|406|333
+Lake Pleasant|town|876|781
+Long Lake|town|850|711
+Morehouse|town|151|86
+Wells|town|737|674
+Herkimer|county|64,437|64,519
+Columbia|town|1,638|1,580
+Danube|town|1,098|1,039
+Fairfield|town|1,624|1,627
+Frankfort|town|7,386|7,636
+German Flatts|town|13,629|13,258
+Herkimer|town|9,962|10,175
+Litchfield|town|1,464|1,513
+Little Falls|city|5,193|4,946
+Little Falls|town|1,539|1,587
+Manheim|town|3,171|3,334
+Newport|town|2,169|2,302
+Norway|town|727|762
+Ohio|town|922|1,002
+Russia|town|2,487|2,587
+Salisbury|town|1,953|1,958
+Schuyler|town|3,385|3,420
+Stark|town|767|757
+Warren|town|1,133|1,143
+Webb|town|1,912|1,807
+Winfield|town|2,202|2,086
+Jefferson|county|111,738|116,229
+Adams|town|4,782|5,143
+Alexandria|town|4,097|4,061
+Antwerp|town|1,793|1,846
+Brownville|town|5,843|6,263
+Cape Vincent|town|3,345|2,777
+Champion|town|4,361|4,494
+Clayton|town|4,817|5,153
+Ellisburg|town|3,541|3,474
+Henderson|town|1,377|1,360
+Hounsfield|town|3,323|3,466
+Le Ray|town|19,836|21,782
+Lorraine|town|930|1,037
+Lyme|town|2,015|2,185
+Orleans|town|2,465|2,789
+Pamelia|town|2,897|3,160
+Philadelphia|town|2,140|1,947
+Rodman|town|1,147|1,176
+Rutland|town|2,959|3,060
+Theresa|town|2,414|2,905
+Watertown|city|26,705|27,023
+Watertown|town|4,482|4,470
+Wilna|town|6,235|6,427
+Worth|town|234|231
+Lewis|county|26,944|27,087
+Croghan|town|3,163|3,093
+Denmark|town|2,744|2,860
+Diana|town|1,661|1,709
+Greig|town|1,367|1,199
+Harrisburg|town|423|437
+Lewis|town|857|854
+Leyden|town|1,792|1,785
+Lowville|town|4,551|4,982
+Lyonsdale|town|1,273|1,227
+Martinsburg|town|1,249|1,433
+Montague|town|108|78
+New Bremen|town|2,720|2,706
+Osceola|town|265|229
+Pinckney|town|319|329
+Turin|town|793|761
+Watson|town|1,985|1,881
+West Turin|town|1,674|1,524
+Livingston|county|64,330|65,393
+Avon|town|6,443|7,164
+Caledonia|town|4,567|4,255
+Conesus|town|2,353|2,473
+Geneseo|town|9,654|10,483
+Groveland|town|3,853|3,249
+Leicester|town|2,287|2,200
+Lima|town|4,541|4,305
+Livonia|town|7,286|7,809
+Mount Morris|town|4,567|4,465
+North Dansville|town|5,738|5,538
+Nunda|town|3,017|3,064
+Ossian|town|751|789
+Portage|town|859|884
+Sparta|town|1,627|1,624
+Springwater|town|2,322|2,439
+West Sparta|town|1,244|1,255
+York|town|3,221|3,397
+Madison|county|69,441|73,442
+Brookfield|town|2,403|2,545
+Cazenovia|town|6,481|7,086
+DeRuyter|town|1,532|1,589
+Eaton|town|4,826|5,255
+Fenner|town|1,680|1,726
+Georgetown|town|946|974
+Hamilton|town|5,733|6,690
+Lebanon|town|1,329|1,332
+Lenox|town|8,665|9,122
+Lincoln|town|1,818|2,012
+Madison|town|2,801|3,008
+Nelson|town|1,964|1,980
+Oneida|city|10,987|11,393
+Smithfield|town|1,205|1,288
+Stockbridge|town|2,080|2,103
+Sullivan|town|14,991|15,339
+Monroe|county|735,343|744,344
+Brighton|town|35,578|36,609
+Chili|town|27,638|28,625
+Clarkson|town|6,072|6,736
+East Rochester|town|6,650|6,587
+Gates|town|29,275|28,400
+Greece|town|94,141|96,095
+Hamlin|town|9,355|9,045
+Henrietta|town|39,029|42,581
+Irondequoit|town|52,354|51,692
+Mendon|town|8,370|9,152
+Ogden|town|18,495|19,856
+Parma|town|14,822|15,633
+Penfield|town|34,645|36,242
+Perinton|town|46,090|46,462
+Pittsford|town|27,219|29,405
+Riga|town|5,434|5,590
+Rochester|city|219,782|210,565
+Rush|town|3,603|3,478
+Sweden|town|13,716|14,175
+Webster|town|37,926|42,641
+Wheatland|town|5,149|4,775
+Montgomery|county|49,708|50,219
+Amsterdam|city|18,355|18,620
+Amsterdam|town|5,820|5,566
+Canajoharie|town|3,797|3,730
+Charleston|town|1,292|1,373
+Florida|town|2,731|2,696
+Glen|town|2,222|2,507
+Minden|town|4,202|4,297
+Mohawk|town|3,902|3,844
+Palatine|town|3,070|3,240
+Root|town|1,752|1,715
+St. Johnsville|town|2,565|2,631
+Nassau|county|1,334,546|1,339,532
+Glen Cove|city|26,626|26,964
+Hempstead|town|756,165|759,757
+Long Beach|city|35,462|33,275
+North Hempstead|town|220,703|226,322
+Oyster Bay|town|295,590|293,214
+Niagara|county|219,844|216,469
+Cambria|town|5,391|5,839
+Hartland|town|4,163|4,117
+Lewiston|town|16,240|16,262
+Lockport|city|22,279|21,165
+Lockport|town|19,655|20,529
+Newfane|town|9,657|9,666
+Niagara|town|8,910|8,378
+Niagara Falls|city|55,661|50,193
+North Tonawanda|city|33,262|31,568
+Pendleton|town|6,050|6,397
+Porter|town|6,920|6,771
+Royalton|town|7,710|7,660
+Somerset|town|2,865|2,662
+Tonawanda|reservation|0|0
+Tuscarora Nation|reservation|1,155|1,152
+Wheatfield|town|14,086|18,117
+Wilson|town|5,840|5,993
+Oneida|county|235,461|234,878
+Annsville|town|2,956|3,012
+Augusta|town|1,966|2,020
+Ava|town|725|676
+Boonville|town|4,572|4,555
+Bridgewater|town|1,675|1,522
+Camden|town|5,018|4,934
+Deerfield|town|3,909|4,273
+Florence|town|1,086|1,025
+Floyd|town|3,869|3,819
+Forestport|town|1,692|1,535
+Kirkland|town|10,134|10,315
+Lee|town|6,875|6,486
+Marcy|town|9,481|8,982
+Marshall|town|2,127|2,131
+New Hartford|town|21,289|22,166
+Paris|town|4,609|4,411
+Remsen|town|1,958|1,929
+Rome|city|34,950|33,725
+Sangerfield|town|2,610|2,561
+Sherrill|city|3,158|3,071
+Steuben|town|1,172|1,100
+Trenton|town|4,670|4,498
+Utica|city|60,599|62,235
+Vernon|town|5,324|5,408
+Verona|town|6,425|6,293
+Vienna|town|5,817|5,440
+Western|town|2,029|1,951
+Westmoreland|town|6,207|6,138
+Whitestown|town|18,635|18,667
+Onondaga|county|458,336|467,026
+Camillus|town|23,152|24,167
+Cicero|town|27,982|31,632
+Clay|town|58,805|58,206
+De Witt|town|24,942|25,838
+Elbridge|town|6,091|5,922
+Fabius|town|1,974|1,964
+Geddes|town|17,740|17,118
+LaFayette|town|4,833|4,952
+Lysander|town|19,285|21,759
+Manlius|town|31,872|32,370
+Marcellus|town|6,319|6,210
+Onondaga|town|21,063|23,101
+Onondaga Nation|reservation|1,473|468
+Otisco|town|2,561|2,541
+Pompey|town|6,159|7,080
+Salina|town|33,290|33,710
+Skaneateles|town|7,323|7,209
+Spafford|town|1,661|1,686
+Syracuse|city|146,464|145,170
+Tully|town|2,680|2,738
+Van Buren|town|12,667|13,185
+Ontario|county|100,224|107,931
+Bristol|town|2,421|2,315
+Canadice|town|1,846|1,664
+Canandaigua|city|11,418|10,545
+Canandaigua|town|7,649|10,020
+East Bloomfield|town|3,361|3,634
+Farmington|town|10,585|11,825
+Geneva|city|13,613|13,261
+Geneva|town|3,295|3,291
+Gorham|town|3,776|4,247
+Hopewell|town|3,346|3,747
+Manchester|town|9,258|9,395
+Naples|town|2,441|2,502
+Phelps|town|7,009|7,072
+Richmond|town|3,452|3,361
+Seneca|town|2,737|2,721
+South Bristol|town|1,645|1,590
+Victor|town|9,823|14,275
+West Bloomfield|town|2,549|2,466
+Orange|county|341,371|372,813
+Blooming Grove|town|17,356|18,028
+Chester|town|12,140|11,981
+Cornwall|town|12,310|12,646
+Crawford|town|7,875|9,316
+Deerpark|town|7,858|7,901
+Goshen|town|12,913|13,687
+Greenville|town|3,800|4,616
+Hamptonburgh|town|4,686|5,561
+Highlands|town|12,482|12,492
+Middletown|city|25,325|28,086
+Minisink|town|3,585|4,490
+Monroe|town|31,407|39,912
+Montgomery|town|20,891|22,606
+Mount Hope|town|6,639|7,018
+Newburgh|city|28,259|28,866
+Newburgh|town|27,571|29,801
+New Windsor|town|22,861|25,244
+Port Jervis|city|8,860|8,828
+Tuxedo|town|3,334|3,624
+Wallkill|town|24,722|27,426
+Warwick|town|30,764|32,065
+Wawayanda|town|6,273|7,266
+Woodbury|town|9,460|11,353
+Orleans|county|44,173|42,883
+Albion|town|9,409|8,468
+Barre|town|2,124|2,025
+Carlton|town|2,960|2,994
+Clarendon|town|3,392|3,648
+Gaines|town|3,740|3,378
+Kendall|town|2,838|2,724
+Murray|town|4,892|4,988
+Ridgeway|town|6,888|6,780
+Shelby|town|5,420|5,319
+Yates|town|2,510|2,559
+Oswego|county|122,379|122,109
+Albion|town|2,083|2,073
+Amboy|town|1,312|1,263
+Boylston|town|507|549
+Constantia|town|5,143|4,973
+Fulton|city|11,855|11,896
+Granby|town|7,009|6,821
+Hannibal|town|4,957|4,854
+Hastings|town|8,803|9,450
+Mexico|town|5,181|5,197
+Minetto|town|1,663|1,659
+New Haven|town|2,930|2,856
+Orwell|town|1,252|1,167
+Oswego|city|18,096|18,142
+Oswego|town|7,287|7,984
+Palermo|town|3,686|3,664
+Parish|town|2,694|2,558
+Redfield|town|607|550
+Richland|town|5,824|5,718
+Sandy Creek|town|3,863|3,939
+Schroeppel|town|8,566|8,501
+Scriba|town|7,189|6,840
+Volney|town|6,094|5,926
+West Monroe|town|4,428|4,252
+Williamstown|town|1,350|1,277
+Otsego|county|61,672|62,259
+Burlington|town|1,085|1,140
+Butternuts|town|1,792|1,786
+Cherry Valley|town|1,268|1,223
+Decatur|town|410|353
+Edmeston|town|1,818|1,826
+Exeter|town|954|987
+Hartwick|town|2,203|2,110
+Laurens|town|2,398|2,424
+Maryland|town|1,920|1,897
+Middlefield|town|2,247|2,114
+Milford|town|2,938|3,044
+Morris|town|1,867|1,878
+New Lisbon|town|1,116|1,114
+Oneonta|city|13,292|13,901
+Oneonta|town|4,994|5,229
+Otego|town|3,187|3,115
+Otsego|town|3,899|3,900
+Pittsfield|town|1,301|1,366
+Plainfield|town|982|915
+Richfield|town|2,423|2,388
+Roseboom|town|684|711
+Springfield|town|1,355|1,358
+Unadilla|town|4,548|4,392
+Westford|town|784|868
+Worcester|town|2,207|2,220
+Putnam|county|95,745|99,710
+Carmel|town|33,006|34,305
+Kent|town|14,009|13,507
+Patterson|town|11,306|12,023
+Philipstown|town|9,422|9,662
+Putnam Valley|town|10,686|11,809
+Southeast|town|17,316|18,404
+Rensselaer|county|152,540|159,429
+Berlin|town|1,901|1,880
+Brunswick|town|11,664|11,941
+East Greenbush|town|15,429|16,473
+Grafton|town|1,987|2,130
+Hoosick|town|6,759|6,924
+Nassau|town|4,818|4,789
+North Greenbush|town|10,815|12,075
+Petersburgh|town|1,563|1,525
+Pittstown|town|5,644|5,735
+Poestenkill|town|4,044|4,530
+Rensselaer|city|7,892|9,392
+Sand Lake|town|7,987|8,530
+Schaghticoke|town|7,456|7,679
+Schodack|town|12,536|12,794
+Stephentown|town|2,873|2,903
+Troy|city|49,172|50,129
+Rockland|county|286,761|311,687
+Clarkstown|town|82,056|84,187
+Haverstraw|town|33,825|36,634
+Orangetown|town|47,781|49,212
+Ramapo|town|108,852|126,595
+Stony Point|town|14,247|15,059
+St. Lawrence|county|111,919|111,944
+Brasher|town|2,337|2,512
+Canton|town|10,334|10,995
+Clare|town|112|105
+Clifton|town|791|751
+Colton|town|1,453|1,451
+De Kalb|town|2,213|2,434
+De Peyster|town|936|998
+Edwards|town|1,148|1,156
+Fine|town|1,622|1,512
+Fowler|town|2,179|2,202
+Gouverneur|town|7,419|7,085
+Hammond|town|1,209|1,191
+Hermon|town|1,069|1,108
+Hopkinton|town|1,020|1,077
+Lawrence|town|1,545|1,826
+Lisbon|town|4,047|4,102
+Louisville|town|3,195|3,145
+Macomb|town|846|906
+Madrid|town|1,828|1,735
+Massena|town|13,121|12,883
+Morristown|town|2,050|1,974
+Norfolk|town|4,565|4,668
+Ogdensburg|city|12,364|11,128
+Oswegatchie|town|4,370|4,397
+Parishville|town|2,049|2,153
+Piercefield|town|305|310
+Pierrepont|town|2,674|2,589
+Pitcairn|town|783|846
+Potsdam|town|15,945|16,041
+Rossie|town|785|877
+Russell|town|1,801|1,856
+Stockholm|town|3,592|3,665
+Waddington|town|2,212|2,266
+Saratoga|county|200,635|219,607
+Ballston|town|8,729|9,776
+Charlton|town|3,958|4,133
+Clifton Park|town|33,110|36,705
+Corinth|town|6,259|6,531
+Day|town|920|856
+Edinburg|town|1,384|1,214
+Galway|town|3,589|3,545
+Greenfield|town|7,362|7,775
+Hadley|town|1,971|2,048
+Halfmoon|town|18,359|21,535
+Malta|town|13,005|14,765
+Mechanicville|city|5,019|5,196
+Milton|town|17,103|18,575
+Moreau|town|13,549|14,728
+Northumberland|town|4,603|5,087
+Providence|town|1,837|1,995
+Saratoga|town|5,114|5,674
+Saratoga Springs|city|26,186|26,586
+Stillwater|town|7,522|8,287
+Waterford|town|8,515|8,423
+Wilton|town|12,541|16,173
+Schenectady|county|146,551|154,727
+Duanesburg|town|5,808|6,122
+Glenville|town|28,179|29,480
+Niskayuna|town|20,295|21,781
+Princetown|town|2,132|2,115
+Rotterdam|town|28,316|29,094
+Schenectady|city|61,821|66,135
+Schoharie|county|31,582|32,749
+Blenheim|town|330|377
+Broome|town|959|973
+Carlisle|town|1,758|1,948
+Cobleskill|town|6,407|6,625
+Conesville|town|727|734
+Esperance|town|2,043|2,076
+Fulton|town|1,493|1,442
+Gilboa|town|1,204|1,307
+Jefferson|town|1,285|1,410
+Middleburgh|town|3,515|3,746
+Richmondville|town|2,412|2,610
+Schoharie|town|3,299|3,205
+Seward|town|1,637|1,763
+Sharon|town|1,843|1,846
+Summit|town|1,123|1,148
+Wright|town|1,547|1,539
+Schuyler|county|19,222|18,343
+Catharine|town|1,930|1,762
+Cayuta|town|545|556
+Dix|town|4,197|3,864
+Hector|town|4,854|4,940
+Montour|town|2,446|2,308
+Orange|town|1,754|1,609
+Reading|town|1,786|1,707
+Tyrone|town|1,710|1,597
+Seneca|county|33,342|35,251
+Covert|town|2,227|2,154
+Fayette|town|3,643|3,929
+Junius|town|1,362|1,471
+Lodi|town|1,478|1,550
+Ovid|town|2,755|2,311
+Romulus|town|2,036|4,316
+Seneca Falls|town|9,347|9,040
+Tyre|town|899|981
+Varick|town|1,729|1,857
+Waterloo|town|7,866|7,642
+Steuben|county|98,728|98,990
+Addison|town|2,640|2,595
+Avoca|town|2,311|2,264
+Bath|town|12,088|12,379
+Bradford|town|772|855
+Cameron|town|1,034|945
+Campbell|town|3,691|3,406
+Canisteo|town|3,583|3,391
+Caton|town|2,097|2,179
+Cohocton|town|2,626|2,561
+Corning|city|10,835|11,183
+Corning|town|6,433|6,270
+Dansville|town|1,977|1,842
+Erwin|town|7,227|8,037
+Fremont|town|964|1,008
+Greenwood|town|849|801
+Hartsville|town|585|609
+Hornby|town|1,742|1,706
+Hornell|city|9,149|8,563
+Hornellsville|town|3,915|4,151
+Howard|town|1,430|1,467
+Jasper|town|1,270|1,424
+Lindley|town|1,913|1,967
+Prattsburgh|town|2,064|2,085
+Pulteney|town|1,405|1,285
+Rathbone|town|1,080|1,126
+Thurston|town|1,309|1,350
+Troupsburg|town|1,126|1,291
+Tuscarora|town|1,400|1,473
+Urbana|town|2,546|2,343
+Wayland|town|4,314|4,102
+Wayne|town|1,167|1,041
+West Union|town|399|312
+Wheeler|town|1,263|1,260
+Woodhull|town|1,524|1,719
+Suffolk|county|1,419,372|1,493,350
+Babylon|town|212,139|213,603
+Brookhaven|town|448,239|486,040
+East Hampton|town|19,719|21,457
+Huntington|town|195,289|203,264
+Islip|town|322,435|335,543
+Poospatuck|reservation|283|324
+Riverhead|town|27,680|33,506
+Shelter Island|town|2,226|2,392
+Shinnecock|reservation|504|662
+Smithtown|town|115,545|117,801
+Southampton|town|54,714|56,790
+Southold|town|20,599|21,968
+Sullivan|county|73,962|77,547
+Bethel|town|4,364|4,255
+Callicoon|town|3,052|3,057
+Cochecton|town|1,327|1,372
+Delaware|town|2,720|2,670
+Fallsburg|town|12,227|12,870
+Forestburgh|town|831|819
+Fremont|town|1,387|1,381
+Highland|town|2,407|2,530
+Liberty|town|9,638|9,885
+Lumberland|town|1,936|2,468
+Mamakating|town|11,004|12,085
+Neversink|town|3,556|3,557
+Rockland|town|3,913|3,775
+Thompson|town|14,185|15,308
+Tusten|town|1,415|1,515
+Tioga|county|51,787|51,125
+Barton|town|9,066|8,858
+Berkshire|town|1,366|1,412
+Candor|town|5,317|5,305
+Newark Valley|town|4,100|3,946
+Nichols|town|2,583|2,525
+Owego|town|20,366|19,883
+Richford|town|1,170|1,172
+Spencer|town|2,979|3,153
+Tioga|town|4,840|4,871
+Tompkins|county|96,502|101,564
+Caroline|town|2,912|3,282
+Danby|town|3,007|3,329
+Dryden|town|13,531|14,435
+Enfield|town|3,370|3,512
+Groton|town|5,794|5,950
+Ithaca|city|28,775|30,014
+Ithaca|town|18,709|19,930
+Lansing|town|10,521|11,033
+Newfield|town|5,108|5,179
+Ulysses|town|4,775|4,900
+Ulster|county|177,694|182,493
+Denning|town|511|551
+Esopus|town|9,333|9,041
+Gardiner|town|5,238|5,713
+Hardenburgh|town|208|238
+Hurley|town|6,562|6,314
+Kingston|city|23,478|23,893
+Kingston|town|908|889
+Lloyd|town|9,938|10,863
+Marbletown|town|5,854|5,607
+Marlborough|town|8,263|8,808
+New Paltz|town|12,830|14,003
+Olive|town|4,579|4,419
+Plattekill|town|9,889|10,499
+Rochester|town|7,010|7,313
+Rosendale|town|6,345|6,075
+Saugerties|town|18,822|19,482
+Shandaken|town|3,226|3,085
+Shawangunk|town|12,020|14,332
+Ulster|town|12,526|12,327
+Wawarsing|town|13,928|13,157
+Woodstock|town|6,226|5,884
+Warren|county|63,303|65,707
+Bolton|town|2,117|2,326
+Chester|town|3,614|3,355
+Glens Falls|city|14,354|14,700
+Hague|town|854|699
+Horicon|town|1,479|1,389
+Johnsburg|town|2,450|2,395
+Lake George|town|3,578|3,515
+Lake Luzerne|town|3,219|3,347
+Queensbury|town|25,441|27,901
+Stony Creek|town|743|767
+Thurman|town|1,199|1,219
+Warrensburg|town|4,255|4,094
+Washington|county|61,042|63,216
+Argyle|town|3,688|3,782
+Cambridge|town|2,154|2,021
+Dresden|town|677|652
+Easton|town|2,259|2,336
+Fort Ann|town|6,417|6,190
+Fort Edward|town|5,892|6,371
+Granville|town|6,456|6,669
+Greenwich|town|4,896|4,942
+Hampton|town|871|938
+Hartford|town|2,277|2,269
+Hebron|town|1,775|1,853
+Jackson|town|1,716|1,800
+Kingsbury|town|11,171|12,671
+Putnam|town|645|609
+Salem|town|2,702|2,715
+White Creek|town|3,411|3,356
+Whitehall|town|4,035|4,042
+Wayne|county|93,766|93,772
+Arcadia|town|14,889|14,244
+Butler|town|2,277|2,064
+Galen|town|4,439|4,290
+Huron|town|2,117|2,118
+Lyons|town|5,831|5,682
+Macedon|town|8,688|9,148
+Marion|town|4,974|4,746
+Ontario|town|9,779|10,136
+Palmyra|town|7,672|7,975
+Rose|town|2,442|2,369
+Savannah|town|1,838|1,730
+Sodus|town|8,949|8,384
+Walworth|town|8,402|9,449
+Williamson|town|6,777|6,984
+Wolcott|town|4,692|4,453
+Westchester|county|923,459|949,113
+Bedford|town|18,133|17,335
+Cortlandt|town|38,469|41,592
+Eastchester|town|31,334|32,363
+Greenburgh|town|86,831|88,400
+Harrison|town|24,129|27,472
+Lewisboro|town|12,324|12,411
+Mamaroneck|town|28,967|29,156
+Mount Kisco|town|10,007|10,877
+Mount Pleasant|town|43,221|43,724
+Mount Vernon|city|68,381|67,292
+New Castle|town|17,467|17,569
+New Rochelle|city|72,182|77,062
+North Castle|town|10,849|11,841
+North Salem|town|5,173|5,104
+Ossining|town|36,534|37,674
+Peekskill|city|22,441|23,583
+Pelham|town|11,866|12,396
+Pound Ridge|town|4,726|5,104
+Rye|city|14,953|15,720
+Rye|town|43,907|45,928
+Scarsdale|town|17,825|17,166
+Somers|town|18,346|20,434
+White Plains|city|53,075|56,853
+Yonkers|city|196,001|195,976
+Yorktown|town|36,318|36,081
+Wyoming|county|43,424|42,155
+Arcade|town|4,184|4,205
+Attica|town|7,806|7,702
+Bennington|town|3,349|3,359
+Castile|town|2,873|2,906
+Covington|town|1,357|1,232
+Eagle|town|1,194|1,192
+Gainesville|town|2,333|2,182
+Genesee Falls|town|460|438
+Java|town|2,222|2,057
+Middlebury|town|1,508|1,441
+Orangeville|town|1,301|1,355
+Perry|town|4,876|4,616
+Pike|town|1,086|1,114
+Sheldon|town|2,561|2,409
+Warsaw|town|5,423|5,064
+Wethersfield|town|891|883
+Yates|county|24,621|25,348
+Barrington|town|1,396|1,681
+Benton|town|2,640|2,836
+Italy|town|1,087|1,141
+Jerusalem|town|4,525|4,469
+Middlesex|town|1,345|1,495
+Milo|town|7,026|7,006
+Potter|town|1,830|1,865
+Starkey|town|3,465|3,573
+Torrey|town|1,307|1,282

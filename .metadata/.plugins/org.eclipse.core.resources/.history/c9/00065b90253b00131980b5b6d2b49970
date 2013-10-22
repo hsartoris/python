@@ -1,0 +1,24 @@
+'''
+Created on Oct 22, 2013
+
+@author: hsartoris
+'''
+import parse_url
+
+max_links = -1
+
+if __name__ == "__main__":
+    url = raw_input("Please enter a URL: ")
+    links = []
+    if url.startswith("http://"):
+        links = parse_url.get_links(url)
+    else:
+        links = parse_url.get_links("http://" + url)
+    
+    for i in range(0, len(links)):
+        newLinks = parse_url.get_links(links[i], max_links))
+        for link in newLinks:
+            links.append(link)
+        
+    for link in links:
+        print link

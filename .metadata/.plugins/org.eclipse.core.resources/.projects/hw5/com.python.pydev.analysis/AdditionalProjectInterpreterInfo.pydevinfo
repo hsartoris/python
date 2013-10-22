@@ -1,0 +1,25 @@
+-- VERSION_3
+-- START DISKCACHE
+/Users/hsartoris/Documents/Programming/python/.metadata/.plugins/org.eclipse.core.resources/.projects/hw5/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+hw5_start|0|/Users/hsartoris/Documents/Programming/python/hw5/hw5_start.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=hw5_start
+-- END DICTIONARY
+-- START TREE 1
+9
+dow|3|downLeft!10@downRight!10@down!10@
+fin|1|find_word_in_puzzle!10@
+lef|1|left!10@
+pri|1|print_board!10@
+rea|1|read_board!10@
+rig|1|right!10@
+up|1|up!10@
+upl|1|upLeft!10@
+upr|1|upRight!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

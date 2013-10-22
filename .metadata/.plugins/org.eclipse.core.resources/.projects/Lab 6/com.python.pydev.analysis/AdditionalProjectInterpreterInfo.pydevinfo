@@ -15,16 +15,10 @@ check3|0|/Users/hsartoris/Documents/Programming/python/Lab 6/check3.py
 3=check3
 -- END DICTIONARY
 -- START TREE 1
-10
-!<m|0|
-api|2|apicode!11@apicode!19@
-bac|1|background!19@
+4
 get|4|getphotos!10@getPhotos!18@getPhotos!26@getPhotos!34@
-im|1|im!11@
-mak|4|make_2x2!34@make_2x2!26@makeWallpaper!26@make_2x2!18@
-n|2|n!19@n!11@
+mak|3|make_2x2!34@makeWallpaper!26@make_2x2!18@
 ope|4|openPhoto!18@openPhoto!26@openPhoto!34@openphoto!10@
-pho|2|photo_list!19@photo_list!11@
 res|2|resizeAndCrop!34@resizeAndCrop!26@
 -- END TREE
 -- START TREE 2
